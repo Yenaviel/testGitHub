@@ -1,0 +1,10 @@
+Apart from VLOOKUP, INDEX and MATCH is the most widely used tool in Excel for performing lookups. The INDEX and MATCH combo is potent and flexible, and you'll see it used in all kinds of formulas, from basic to very advanced.
+
+However, while VLOOKUP allows you to perform lookups with a single function, INDEX and MATCH requires two functions, one nested inside another. Many users find this confusing, because they aren't used to combining functions in Excel, so they avoid INDEX and MATCH. That's a shame. Combining functions is the key to more advanced formulas in Excel.
+
+This article explains in simple terms how to use INDEX and MATCH together to perform lookups. It takes a step-by-step approach, first explaining INDEX, then MATCH, then showing you how to combine the two functions together to create a dynamic two-way lookup.
+INDEX – get value at known position
+
+The INDEX function in Excel is fantastically flexible and powerful, and you'll find it in a huge number of Excel formulas, especially advanced formulas. But what does INDEX actually do? In a nutshell, INDEX retrieves values at a given location in a list or table. For example, let's say you have a table of planets in our solar system (see below), and you want to get the name of the 4th planet, Mars, with a formula.
+
+You can do it with this simple formula based on the INDEX function:
