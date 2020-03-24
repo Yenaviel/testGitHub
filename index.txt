@@ -7,4 +7,3 @@ INDEX – get value at known position
 
 The INDEX function in Excel is fantastically flexible and powerful, and you'll find it in a huge number of Excel formulas, especially advanced formulas. But what does INDEX actually do? In a nutshell, INDEX retrieves values at a given location in a list or table. For example, let's say you have a table of planets in our solar system (see below), and you want to get the name of the 4th planet, Mars, with a formula.
 
-You can do it with this simple formula based on the INDEX function:
